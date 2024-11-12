@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "Samsang的笔记仓库"
   text: "个人笔记分享记录"
-  tagline: My great project tagline
+  tagline: Nobody is nobody! 没有人是无名之辈！
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: ./MD笔记/markdown-examples
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: ./MD笔记/api-examples
 
 features:
   - title: Feature A
