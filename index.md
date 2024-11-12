@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: ./MD笔记/markdown-examples
+      link: /markdown-examples
     - theme: alt
       text: API Examples
-      link: ./MD笔记/api-examples
+      link: /api-examples
 
 features:
   - title: Feature A
