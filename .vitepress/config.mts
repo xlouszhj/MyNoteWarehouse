@@ -8,15 +8,20 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '学习笔记', 
+        items: [
+          {text: 'Git配置连接GitHub', link: '/MD笔记/Git配置连接GitHub'}
+        ]
+       }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '学习笔记',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Runtime API Examples', link: '/api-examples' },
+          { text: 'Git配置连接GitHub', link: '/MD笔记/Git配置连接GitHub' }
         ]
       }
     ],
