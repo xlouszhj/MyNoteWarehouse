@@ -91,7 +91,7 @@ git config --list
   git diff
   ```
 
-### 5. 提交操作
+## 5. 提交操作
 
 - **提交更改**
   提交已暂存的文件并附上提交信息：
@@ -107,7 +107,7 @@ git config --list
   git commit -a -m "提交信息"
   ```
 
-### 6. 分支操作
+## 6. 分支操作
 
 - **查看所有分支**
   查看当前仓库的所有分支：
@@ -144,7 +144,7 @@ git config --list
   git merge <branch-name>
   ```
 
-### 7. 远程操作
+## 7. 远程操作
 
 - **查看远程仓库**
   查看当前仓库配置的远程仓库：
@@ -182,7 +182,7 @@ git config --list
   git checkout <branch-name>
   ```
 
-### 8. 撤销操作
+## 8. 撤销操作
 
 - **撤销文件的修改**
   撤销工作区对文件的修改（恢复为最新的提交状态）：
@@ -291,7 +291,7 @@ git config --list
   git push --force
   ```
 
-### 9. 查看和修复提交
+## 9. 查看和修复提交
 
 - **修改上一次提交**
   修改提交信息或添加忘记的文件到上一次提交：
@@ -307,7 +307,7 @@ git config --list
   git checkout <commit-hash> -- <file>
   ```
 
-### 10. Git 标签
+## 10. Git 标签
 
 - **创建标签**
   创建一个新的标签：
@@ -323,7 +323,7 @@ git config --list
   git push origin <tag-name>
   ```
 
-### 11. Git 其他常用命令
+## 11. Git 其他常用命令
 
 - **查看分支合并情况**
   查看分支合并情况和历史：
