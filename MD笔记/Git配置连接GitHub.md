@@ -1,6 +1,6 @@
 # Git配置连接GitHub
 
-> [Git配置连接GitHub](https://www.cnblogs.com/linshengqian/p/15065553.html) 
+> 来源：[Git配置连接GitHub](https://www.cnblogs.com/linshengqian/p/15065553.html) 
 
 ## 1. 新建仓库
 
